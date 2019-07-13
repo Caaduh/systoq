@@ -1,0 +1,29 @@
+{
+  "name": "bower init",
+  "authors": [
+    "Eduardo Alves <caaduh@gmail.com>"
+  ],
+  "description": "Sistema de estoque criado para estudos de PHP e BD",
+  "main": "index.php",
+  "Keywords": [
+    "SysToq",
+    "systoq"
+  ],
+  "license": "MIT",
+  "homepage": "index.php",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "animate.css": "animate-css#^3.7.0",
+    "jQuery": "^3.3.1",
+    "MDBootstrap": "^4.7.6",
+    "normalize-css": "^8.0.1",
+    "fontAwesome": "^5.8.1",
+    "ionicons-min": "^2.0.1",
+    "chart.js": "^2.8.0"
+  }
+}
